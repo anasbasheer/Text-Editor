@@ -1,7 +1,7 @@
 from tkinter import Tk, Text, Button, Menubutton, Menu, IntVar
 import tkinter.filedialog as filedialog
 
-
+# Whats this all about??
 root = Tk()
 root.title("Text Editor")
 text = Text(root)
